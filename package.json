@@ -1,0 +1,15 @@
+{
+  "name": "campspot_rg",
+  "version": "1.0.0",
+  "description": "Ryne Gross' solutions to programming challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine spec/ReservationQuerySpec.js",
+    "start": "index.js"
+  },
+  "author": "Ryne Gross",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
